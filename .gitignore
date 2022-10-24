@@ -1,0 +1,4 @@
+appendonly.aof
+/logs
+.idea
+.DS_Store
